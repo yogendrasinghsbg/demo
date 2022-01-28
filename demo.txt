@@ -1,7 +1,0 @@
-Q1 - What is the versioning control system?
-ANS - https://www.h2kinfosys.com/blog/what-is-version-control-system/
-Q2 - What is the use of git?
-ANS - 
-Q3 - Stash and unstash area in git
-Q4 - Concepts of branches in git?
-Q5 - .gitignore file
