@@ -1,5 +1,6 @@
 #. What is the versioning control system?
-- A version control system is a software used to record changes to a file or set of files over time. 
+- A version control system is a software used to record changes to a file or set of files over time
+
 It is a collection of software tools that help a team manage the changes in source code. 
 It uses a special database to keep records of every modification to the code. 
 Developers can easily compare earlier versions of the code with an older version to fix the issues.
